@@ -2,6 +2,8 @@
 
 Portfolio project by `@pkim02`.
 
+**Implementation proof:** see [IMPLEMENTATION.md](IMPLEMENTATION.md) for the FSRCNN stage mapping, custom dataset classes, PSNR evaluation, and qualitative reconstruction checks.
+
 ## Project Goal
 
 A PyTorch implementation of FSRCNN for single-image super-resolution, comparing learned reconstruction against bicubic interpolation.
